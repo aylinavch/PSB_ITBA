@@ -1,0 +1,23 @@
+ECG
+- Pam y Tompkins
+- Cubic Splines
+- Detrend
+- Detector de "ruido"
+
+HRV
+- pyHRV
+	https://pyhrv.readthedocs.io/en/latest/_pages/api/frequency.html#welch-s-method-welch-psd
+	https://pyhrv.readthedocs.io/en/latest/_pages/api/time.html
+- Lomb
+
+EEG
+- MNE
+- Segmentación
+- Ritmos
+
+PE
+- Promediados
+
+SP
+- Obtener tónico
+- Obtener fásico
