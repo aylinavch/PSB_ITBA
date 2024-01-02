@@ -1,3 +1,7 @@
+Señales y Sistemas
+- FFT
+- Second Order Section Filters / 
+
 ECG
 - Pam y Tompkins
 - Cubic Splines
